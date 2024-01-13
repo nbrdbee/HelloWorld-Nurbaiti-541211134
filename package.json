@@ -20,14 +20,14 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nbrdbee/HelloWorld-Nurbaiti-541211134.git"
+    "url": "git+https://github.com/nbrdbee/buildAPK-Nurbaiti-541211134.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nbrdbee/HelloWorld-Nurbaiti-541211134/issues"
+    "url": "https://github.com/nbrdbee/buildAPK-Nurbaiti-541211134/issues"
   },
-  "homepage": "https://github.com/nbrdbee/HelloWorld-Nurbaiti-541211134#readme",
+  "homepage": "https://github.com/nbrdbee/buildAPK-Nurbaiti-541211134#readme",
   "description": ""
 }
